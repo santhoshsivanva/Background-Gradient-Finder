@@ -1,4 +1,4 @@
-# Background Gradient Finder
+# Background Gradient Finder 🌈
   Background Gradient Finder is a simple web application that allows users to generate CSS gradients for use in their web designs. The app features an intuitive         interface that makes it easy to experiment with different gradient combinations and preview the results in real-time.
 
 # Features
